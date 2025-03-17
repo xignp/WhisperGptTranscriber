@@ -11,7 +11,7 @@ This project is intended to show how to use OpenAI's APIs (Whisper for speech-to
 - **GPT API Integration**: Summarize the transcribed text.
 - **C# Implementation**: A simple, clean C# example demonstrating API interaction.
 
-- ## How to use
+## How to use
   1.git clone
   
   2.Open Project
